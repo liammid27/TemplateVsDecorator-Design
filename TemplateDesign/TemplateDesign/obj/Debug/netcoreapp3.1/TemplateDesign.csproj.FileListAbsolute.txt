@@ -1,0 +1,14 @@
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\TemplateDesign\TemplateDesign\obj\Debug\netcoreapp3.1\TemplateDesign.AssemblyInfoInputs.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\TemplateDesign\TemplateDesign\obj\Debug\netcoreapp3.1\TemplateDesign.AssemblyInfo.cs
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\TemplateDesign\TemplateDesign\obj\Debug\netcoreapp3.1\TemplateDesign.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\TemplateDesign\TemplateDesign\bin\Debug\netcoreapp3.1\TemplateDesign.exe
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\TemplateDesign\TemplateDesign\bin\Debug\netcoreapp3.1\TemplateDesign.deps.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\TemplateDesign\TemplateDesign\bin\Debug\netcoreapp3.1\TemplateDesign.runtimeconfig.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\TemplateDesign\TemplateDesign\bin\Debug\netcoreapp3.1\TemplateDesign.runtimeconfig.dev.json
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\TemplateDesign\TemplateDesign\bin\Debug\netcoreapp3.1\TemplateDesign.dll
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\TemplateDesign\TemplateDesign\bin\Debug\netcoreapp3.1\TemplateDesign.pdb
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\TemplateDesign\TemplateDesign\obj\Debug\netcoreapp3.1\TemplateDesign.dll
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\TemplateDesign\TemplateDesign\obj\Debug\netcoreapp3.1\TemplateDesign.pdb
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\TemplateDesign\TemplateDesign\obj\Debug\netcoreapp3.1\TemplateDesign.genruntimeconfig.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\TemplateDesign\TemplateDesign\obj\Debug\netcoreapp3.1\TemplateDesign.csproj.AssemblyReference.cache
+C:\Users\Liam\Desktop\Semester 2\GADE7212\Activities\TemplateDesign\TemplateDesign\obj\Debug\netcoreapp3.1\TemplateDesign.GeneratedMSBuildEditorConfig.editorconfig
